@@ -1,0 +1,11 @@
+{
+    "name": "flame-on-ui",
+    "description": "Angular-ui package for meteorite.",
+    "homepage": "https://github.com/kievechua/flame-on-ui",
+    "author": "Kieve Chua",
+    "version": "0.1.0",
+    "git": "https://github.com/kievechua/flame-on.git",
+    "packages": {
+        "flame-on": "0.1.9"
+    }
+}
