@@ -3,8 +3,8 @@
     "description": "Angular-ui package for meteorite.",
     "homepage": "https://github.com/kievechua/flame-on-ui",
     "author": "Kieve Chua",
-    "version": "0.1.1",
-    "git": "https://github.com/kievechua/flame-on.git",
+    "version": "0.1.2",
+    "git": "https://github.com/kievechua/flame-on-ui.git",
     "packages": {
         "flame-on": "0.1.9"
     }
