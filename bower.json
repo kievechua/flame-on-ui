@@ -1,6 +1,6 @@
 {
     "name": "flame-on-ui",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "components/angular-ui/build/angular-ui.min.js",
     "ignore": [
         "**/.*",
