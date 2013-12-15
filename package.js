@@ -10,4 +10,5 @@ Package.on_use(function (api) {
     // Dependencies js
     api.add_files('components/angular-ui/build/angular-ui.min.js', 'client');
     api.add_files('components/angular-ui/build/angular-ui-ieshiv.min.js', 'client');
+    api.add_files('components/ui-bootstrap/build/ui-bootstrap-tpls.js', 'client');
 });
